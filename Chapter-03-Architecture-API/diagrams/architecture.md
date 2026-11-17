@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
     A[User] --> B[Front-End]
     B --> C[REST API]
@@ -8,3 +9,4 @@ flowchart TD
     E --> H[(Database)]
     F --> H
     G --> H
+```
